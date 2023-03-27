@@ -30,7 +30,7 @@ MUST pertain to several different categories:
 2. SEPs MUST have a status that defines the current condition of the proposal.
 3. SEPs MUST have a category that defines the context of the proposal.
 4. SEPs MUST have a discussion (issue) link to follow up the proposal.
-5. SEPs MUST have description following RFC-2119.
+5. SEPs MUST have a description is one full (short) sentence and MAY follow RFC-2119.
 
 Or just follow our [TEMPLATE.md](TEMPLATE.md).
 
