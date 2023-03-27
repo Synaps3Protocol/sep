@@ -3,7 +3,7 @@
 **Title:** Named SEP Text Bold with Format SEP-{PR}: {Title}
 
 ```text
-SEP-002: SCP Proposal
+SEP-002: SEP Proposal
 ```
 
 **Status:** Draft | Ready
