@@ -24,7 +24,7 @@ Category: Security
 Discussions-to: https://github.com/ZorrillosDev/WEISP/issues
 ```
 
-**Description:** Description is one full (short) sentence
+**Description:** Description is one full (short) sentence following RFC-2119.
 
 ```text
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
