@@ -2,12 +2,12 @@
 
 Synapse Standards Proposals
 
-This repository is a collection of SSP to improve Synapse Network - detailed ideas intended solicit discussion that leads to consensus.
+This repository is a collection of SSP to improve Synapse - detailed ideas intended solicit discussion that leads to consensus.
 
 SSP Process
 All ideas are welcome. An SSP should start as a pull request to this repo. Merged SSP should be considered "accepted".
 
-See the current listing of in-progress SCPs [here](https://github.com/Synapse/SSP/pulls)
+See the current listing of in-progress SCPs [here](https://github.com/Synapse/ssp/pulls)
 
 Process Status: `EXPERIMENTAL`
 
