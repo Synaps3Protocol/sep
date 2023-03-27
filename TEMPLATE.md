@@ -21,7 +21,7 @@ Category: Security
 **Discussions-to:** Link to related issue
 
 ```text
-Discussions-to: https://github.com/ZorrillosDev/WEISP/issues
+Discussions-to: https://github.com/Synapse/ssp/issues
 ```
 
 **Description:** Description is one full (short) sentence following RFC-2119.

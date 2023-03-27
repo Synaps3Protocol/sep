@@ -29,7 +29,7 @@ MUST pertain to several different categories:
 1. SEPs MUST have a header made up of the format SEP-{PR}: followed by the title of the SEP. eg: **SEP-002: SEP Proposal**.
 2. SEPs MUST have a status that defines the current condition of the proposal.
 3. SEPs MUST have a category that defines the context of the proposal.
-4. SEPs MUST have a discussion pr link to follow up the proposal.
+4. SEPs MUST have a discussion (issue) link to follow up the proposal.
 5. SEPs MUST have description following RFC-2119.
 
 Or just follow our [TEMPLATE.md](TEMPLATE.md).
