@@ -13,7 +13,7 @@ Process Status: `EXPERIMENTAL`
 
 This process is itself in flux and may change or end at some point.
 
-## SEP-001: SEP Categories and Nomenclature
+## SEP-000: SEP Categories and Nomenclature
 
 ### SEPs
 
