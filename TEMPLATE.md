@@ -24,7 +24,7 @@ Category: Security
 Discussions-to: https://github.com/Synapse/ssp/issues
 ```
 
-**Description:** Description is one full (short) sentence following RFC-2119.
+**Content:** Content is one full sentence and MAY follow RFC-2119.
 
 ```text
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
