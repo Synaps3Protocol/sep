@@ -21,7 +21,7 @@ Category: Security
 **Discussions-to:** Link to related issue
 
 ```text
-Discussions-to: https://github.com/Synapse/ssp/issues
+Discussions-to: https://github.com/Synapse/sep/issues
 ```
 
 **Content:** Content is one full sentence and MAY follow RFC-2119.
