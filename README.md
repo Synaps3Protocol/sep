@@ -2,7 +2,7 @@
 
 Synapse Enhancement Proposals
 
-This repository is a collection of SEP to improve Synapse - detailed ideas intended solicit discussion that leads to consensus.
+This repository is a collection of SEPs to improve Synapse - detailed ideas intended solicit discussion that leads to consensus.
 
 SEP Process
 All ideas are welcome. An SEP should start as a pull request to this repo. Merged SEP should be considered "accepted".
