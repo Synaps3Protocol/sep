@@ -22,7 +22,7 @@ MUST pertain to several different categories:
 1. *Architecture* SEPs MUST relate to the internal architecture and software engineering of Synapse. Proposals regarding performance, resiliency, and feature sets are submitted in this category.
 2. *Standards* SEPs MUST relate to metadata standards and conventions, including data structures such as dht metadata standards and secure metadata standard.
 3. *Security* SEPs MUST relate to security in the Synapse environment. Proposals related to improvements in distribution, data transmission, encryption and access control are filed in this category.
-4. *Community* SEPs MUST relate to the external documentation, code of conduct, community engagement, and the SCP process itself.
+4. *Community* SEPs MUST relate to the external documentation, code of conduct, community engagement, and the SEP process itself.
 
 ### Anatomy
 
