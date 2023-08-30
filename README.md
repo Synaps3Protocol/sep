@@ -7,7 +7,7 @@ This repository is a collection of SEP to improve Synapse - detailed ideas inten
 SEP Process
 All ideas are welcome. An SEP should start as a pull request to this repo. Merged SEP should be considered "accepted".
 
-See the current listing of in-progress SCPs [here](https://github.com/Synapse/ssp/pulls)
+See the current listing of in-progress SCPs [here](https://github.com/Synapse/sep/pulls)
 
 Process Status: `EXPERIMENTAL`
 
