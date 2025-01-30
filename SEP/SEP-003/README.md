@@ -2,7 +2,7 @@
 
 **Status:** Draft **|** **Category:** Economics
 
-**Discussions-to:** [Link to related issue](https://github.com/orgs/Synaps3Protocol/discussions/6)
+**Discussions-to:** [SEP-003: MMC Token Economics](https://github.com/orgs/Synaps3Protocol/discussions/6)
 
 
 Currently envisages to having a maximum supply of **1,000,000,000** tokens, ensuring scarcity and supporting long-term value. These tokens will be vested over a total of 72 months. During the private sale, **10%** of the **total supply (100,000,000 MMC)** will be offered, with a target to raise **$10,000,000**.
