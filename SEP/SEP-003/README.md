@@ -39,12 +39,12 @@ The allocation and vesting of tokens are as follows:
 | Founder/Team Round 3             |                6 |                      48 |                       3 |                          24 |
 | Initial Network Reserve          |                6 |                       0 |                       0 |                          48 |
 | Rewards & Incentives             |               12 |                       2 |                       0 |                          60 |
-| Content Growth & Support 1       |                6 |                       6 |                       0 |                          36 |
-| Content Growth & Support 2       |                5 |                      36 |                       0 |                          24 |
-| Marketing                        |                5 |                       6 |                       0 |                          36 |
+| Content Growth & Support 1       |                6 |                       0 |                       3 |                          36 |
+| Content Growth & Support 2       |                5 |                      36 |                       0 |                          36 |
+| Marketing                        |                5 |                       3 |                       0 |                          36 |
 | Ecosystem Growth & Partnership 1 |                7 |                       0 |                       0 |                          36 |
 | Ecosystem Growth & Partnership 2 |                5 |                      36 |                       0 |                          24 |
-| Research & Development           |                5 |                       6 |                       0 |                          36 |
+| Research & Development           |                5 |                       3 |                       0 |                          36 |
 | Private Sale                     |               10 |                       0 |                       8 |                          36 |
 | Advisors/Legals                  |                4 |                       0 |                       6 |                          24 |
 
