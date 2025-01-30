@@ -31,9 +31,9 @@ The allocation and vesting of tokens are as follows:
 | Entity                           |   Allocation (%) |   Vesting Start (month) |   Vesting Cliff (month) |   Vesting Duration (months) |
 |:---------------------------------|-----------------:|------------------------:|------------------------:|----------------------------:|
 | Cex/Dex                          |                5 |                       0 |                       0 |                           0 |
-| Investors Round 1                |                7 |                       0 |                       6 |                          18 |
-| Investors Round 2                |                5 |                      18 |                       6 |                          18 |
-| Investors Round 3                |                3 |                      36 |                       3 |                          18 |
+| Investors Round 1                |                7 |                      12 |                       6 |                          18 |
+| Investors Round 2                |                5 |                      30 |                       6 |                          18 |
+| Investors Round 3                |                3 |                      48 |                       3 |                          18 |
 | Founder/Team Round 1             |                4 |                       0 |                      12 |                          24 |
 | Founder/Team Round 2             |                5 |                      24 |                       6 |                          24 |
 | Founder/Team Round 3             |                6 |                      48 |                       3 |                          24 |
