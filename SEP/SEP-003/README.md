@@ -39,8 +39,8 @@ The allocation and vesting of tokens are as follows:
 | Founder/Team Round 3             |                6 |                      48 |                       3 |                          24 |
 | Initial Network Reserve          |                6 |                       0 |                       0 |                          48 |
 | Rewards & Incentives             |               12 |                       2 |                       0 |                          60 |
-| Content Growth & Support  1      |                6 |                       6 |                       0 |                          36 |
-| Content Growth & Support  2      |                5 |                      36 |                       0 |                          24 |
+| Content Growth & Support 1       |                6 |                       6 |                       0 |                          36 |
+| Content Growth & Support 2       |                5 |                      36 |                       0 |                          24 |
 | Marketing                        |                5 |                       6 |                       0 |                          36 |
 | Ecosystem Growth & Partnership 1 |                7 |                       0 |                       0 |                          36 |
 | Ecosystem Growth & Partnership 2 |                5 |                      36 |                       0 |                          24 |
@@ -137,7 +137,7 @@ The results projected here are based on growth assumptions for the Rent/Subscrip
 
 Based on the simulation results, the MMC token is expected to evolve in value as follows:
 
-![Projected KPIs](resources/kpi_48.png)
+![Projected KPIs](resources/kpi.png)
 
 ![Token price](resources/token_price.png)
 
@@ -169,5 +169,5 @@ The treasury is expected to have the following funds under management:
 
 ![Funds under management](resources/funds_under_management.png)
 
-By year 4, the treasury is expected to have a total value of approximately $418000000 under management, with 99% in native tokens and 0% in other currencies.
+By year 4, the treasury is expected to have a total value of approximately $439000000 under management, with 99% in native tokens and 0% in other currencies.
 
