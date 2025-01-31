@@ -1,6 +1,4 @@
-# SEP
-
-## Synapse Enhancement Proposals
+# Synapse Enhancement Proposals
 
 This repository is a collection of SEPs designed to improve Synapse—detailed ideas intended to spark discussion and achieve consensus.
 
