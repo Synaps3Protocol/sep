@@ -5,7 +5,7 @@
 This repository is a collection of SEPs designed to improve Synapse—detailed ideas intended to spark discussion and achieve consensus.
 
 ### SEP Process
-All ideas are welcome. A SEP proposal SHOULD start as a pull request to this repository. SEPs that are merged MUST be considered “accepted.”
+All ideas are welcome. A SEP SHOULD start as a pull request to this repository. SEPs that are merged MUST be considered “accepted.”
 
 See the current list of in-progress SEPs [here](https://github.com/SynapseMedia/sep/pulls)
 
