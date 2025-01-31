@@ -162,8 +162,6 @@ Based on the simulation, the MMC Token is projected to evolve in value as follow
 
 ![Monthly buying pressure](resources/monthly_buying_pressure.png)
 
-![Monthly buying pressure in tokens](resources/monthly_buying_pressure_tokens.png)
-
 ### Supply and inflation
 
 ![Token supply](resources/token_supply.png)
@@ -188,7 +186,7 @@ The following graph shows the expected funds under management:
 
 ![Funds under management](resources/funds_under_management.png)
 
-By year 4, the treasury is projected to manage a total value of approximately **$431,000,000**, with 99% held in native tokens and 0% in other currencies.
+By year 4, the treasury is projected to manage a total value of approximately **$431,000,000**, with 99% held in native tokens.
 
 
 ### Conclusion
