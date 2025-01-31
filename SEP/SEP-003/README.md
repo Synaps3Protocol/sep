@@ -5,28 +5,34 @@
 **Discussions-to:** [SEP-003: MMC Token Economics](https://github.com/orgs/Synaps3Protocol/discussions/6)
 
 
-Currently envisages to having a maximum supply of **1,000,000,000** tokens, ensuring scarcity and supporting long-term value. These tokens will be vested over a total of 72 months. During the private sale, **10%** of the **total supply (100,000,000 MMC)** will be offered, with a target to raise **$10,000,000**.
+## Abstract
 
-## 1.1 Initial Price
+This document outlines the economic structure and utility framework of the MMC token, including its issuance, allocation, vesting schedules, inflationary and deflationary mechanisms, fee structures, governance model, and projected economic impact. The proposal seeks to ensure the long-term sustainability of the MMC ecosystem by establishing a tokenomic framework that incentivizes adoption, supports network participants, and aligns stakeholder interests.
 
-The initial price per token is determined as:
 
-![Price Formula](resources/formula.png)
+## 1.1 Token Supply and Initial Distribution
 
-*Initial Price per Token = Target Funds / Tokens Allocated for Private Sale*
+The total maximum supply of **1,000,000,000** MMC tokens is designed to ensure scarcity and long-term value preservation. These tokens will be released over a 72-month vesting period. During the private sale, **10%** of the total supply (**100,000,000 MMC**) will be allocated, targeting a fundraising goal of **$10,000,000**.
 
-To ensure market stability and liquidity:
+## 1.2 Initial Price Determination
 
-- 50% of the funds raised will be allocated to Market Makers.
-- This strategy guarantees smooth transactions, improves token liquidity, and reinforces investor confidence.
-- The limited supply ensures tokens remain scarce, reducing the risk of sudden influxes that could cause major price swings.
-- Over time, this enhances value retention as demand grows and the token becomes a sought-after asset.
+The initial price per token is derived from the following formula:
 
-## 1.2 Allocation and Vesting Schedule
+> **Initial Price per Token = Target Funds / Tokens Allocated for Private Sale**
 
-The MMC Token distribution is designed to incentivize early adopters, contributors, and network participants while ensuring ecosystem sustainability. 
-**All vesting schedules follow a “cliff + linear” model.** This means that during the cliff period no tokens are released, and once the cliff is reached, tokens are unlocked proportionally (linearly) across the remaining vesting duration.
-The allocation and vesting of tokens are as follows:
+To mitigate volatility and enhance market stability:
+
+- 50% of the capital raised will be allocated to liquidity provision via Market Makers.
+- A fixed token supply minimizes the risk of supply shocks, ensuring gradual and organic value appreciation.
+- Market-making strategies will support a balanced liquidity environment and minimize excessive price fluctuations.
+
+## 1.3 Allocation and Vesting Schedule
+
+MMC token distribution is structured to ensure long-term sustainability while rewarding key stakeholders. The vesting schedule employs a **cliff + linear model**, where:
+
+- Tokens remain locked during the cliff period.
+- Post-cliff, tokens unlock gradually in equal increments over the designated vesting duration.
+
 
 | Entity                           |   Allocation (%) |   Vesting Start (month) |   Vesting Cliff (month) |   Vesting Duration (months) |
 |:---------------------------------|-----------------:|------------------------:|------------------------:|----------------------------:|
@@ -48,7 +54,7 @@ The allocation and vesting of tokens are as follows:
 | Private Sale                     |               10 |                       0 |                       8 |                          36 |
 | Advisors/Legals                  |                4 |                       0 |                       6 |                          24 |
 
-## 1.3 Distribution Mechanism (Token Distribution)
+## 1.4 Distribution Mechanism (Token Distribution)
 
 The MMC Token distribution is designed to incentivize early adopters, contributors, and network participants while ensuring the ecosystem's sustainability. Key mechanisms include:
 
@@ -58,27 +64,37 @@ The MMC Token distribution is designed to incentivize early adopters, contributo
 - **Vesting**: Gradual token releases for long-term stakeholders.
 - **Grants & Partnerships**: Supporting ecosystem growth through strategic collaborations.
 - **Rewards**: Distributed for engaging in quests, staking, governance, prizes, and community activities.
-- **Content Growth & Support**: Incentivizing the creation, curation, and expansion of high-quality content within the platform.
+- **Content Growth & Support**: Incentivize the creation and expansion of high-quality content within the platform.
 - **Network Effects Support**: Encouraging behaviors like:
   - Providing valuable feedback.
   - Uploading high-quality content.
   - Building a strong reputation.
   - Referrals that expand the user base.
 
+## 1.5 Token Utility & Use Cases
 
-## 1.4 Inflation/Deflation Model
+MMC serves as the foundational asset within the ecosystem, supporting:
 
-Although token releases are not technically inflationary (since no new tokens are minted), they influence the circulating supply, impacting supply and demand dynamics. The MMC Token employs a balanced inflation/deflation mechanism to ensure long-term sustainability.
+1. **Staking**: MMC holders stake tokens to earn rewards.
+2. **Governance**: Influence protocol decisions via token-weighted voting.
+3. **Content Access**: Used for content monetization models (subscriptions, rentals, paywalls).
+4. **Premium Services**: Unlock AI analytics, marketing tools, and content processing.
+5. **Rights Market**:  Enable decentralized IP trade and leasing.
+6. **IP Lending/Borrowing** : Provide liquidity through collateralized IP.
 
-### 1.4.1 **Inflationary Faucet**
+## 1.6 Inflation/Deflation Model
+
+Although token releases are not technically inflationary (since no new tokens are minted), they do affect the circulating supply, impacting supply and demand dynamics. The MMC Token employs a balanced inflation/deflation mechanism to ensure long-term value.
+
+### 1.6.1 **Inflationary Faucet**
 Tokens are distributed and added to the circulating supply through the mechanisms listed in **1.3**, including:
 
 - Staking rewards.
 - Network Effects Support.
 - Airdrops.
 
-### 1.4.2 **Deflationary Sink**
-Tokens are strategically removed or temporarily locked to reduce the circulating supply, leveraging mechanisms like:
+### 1.6.2 **Deflationary Sink**
+Tokens are strategically removed or temporarily locked to reduce the circulating supply, using methods like:
 
 - **Token Burn**: A portion of fees is permanently removed from circulation.
 - **Fees**: A percentage of collected fees is removed or redirected.
@@ -86,56 +102,59 @@ Tokens are strategically removed or temporarily locked to reduce the circulating
 - **Buybacks & Treasury Locking**: Tokens purchased from the market are either stored in the treasury or burned.
 - **Staking**: Temporarily locks tokens, reducing the active circulating supply.
 
-### 1.4.3 **Future Approach**
-We plan to adopt a hybrid model combining:
+### 1.6.3 **Future Approach**
+A hybrid model is planned, combining:
 
 - **Token emissions based on new content** (as an inflationary mechanism).
 - **Token burns** (as a deflationary mechanism).
 
-In the long term, combining token emissions and burns balances supply and demand, stabilizes token value, and promotes sustainable ecosystem growth. This hybrid model incentivizes new content creation while controlling inflation and maintaining scarcity, ensuring a robust and engaged blockchain community.
+In the long run, the combination of emissions and burns balances supply and demand, stabilizes the token’s value, and promotes sustainable ecosystem growth. This hybrid model incentivizes new content creation while controlling inflation and maintaining scarcity, fostering a robust and engaged blockchain community.
 
-## 1.5 Fee Rate & Distribution
+## 1.7 Fee Rate & Distribution
 
-The protocol charges a **5%** initial fee on transactions, distributed as follows:
+The protocol applies an initial **5%** fee on transactions, distributed as follows:
 
 - **Treasury: 50%**  
   Supports ecosystem growth, grants, development, and operational costs.
 - **Staking Pool: 20%**  
-  Incentivizes participants staking MMC Tokens.
+  Incentivize participants who stake MMC Tokens.
 - **Burn Rate: 30%**  
   Permanently removes tokens to create scarcity and stabilize value.
 
-## 1.6 Governance and Voting Rights
+## 1.8 Governance and Voting Rights
 
-MMC Token holders play a crucial role in the decentralized governance of our ecosystem. Governance is powered by a token-weighted voting system, where the voting power of participants is directly proportional to the number of MMC Tokens they hold. This system ensures that those most invested in the platform have a meaningful voice in its direction, fostering a sense of responsibility and accountability within the community.
+MMC Token holders play a crucial role in the decentralized governance of the ecosystem. A token-weighted voting system is used, where participants’ voting power is directly proportional to the number of MMC Tokens they hold. This ensures that those most invested in the platform have a meaningful voice in shaping its direction, fostering responsibility and accountability within the community.
 
-### **Governance Process**
+### Governance Process
+
 1. **Proposal Submission**
 2. **Community Discussion**
 3. **Voting Preparation**
 4. **Voting Period**
-5. **Proposal Implementation or Execution**
+5. **Proposal Implementation/Execution**
 
-The community actively shapes the future of the ecosystem by voting on:
+Through governance, the community can influence aspects such as:
 
-- **Fee Rate**: Adjust transaction fee rates.
-- **Deflation Control**: Adjust the Token burn rate.
-- **Treasury Administration**: Allocate funds for ecosystem development, network support, and partnerships.
-- **Content Curation**: Verify and curate high-quality content within the platform.
-- **Validation of Distribution Network**: Approve and onboard nodes responsible for content delivery and network operations.
+- **Fee Rate**: Adjusting the percentage applied to transactions.
+- **Deflation Control**: Modifying the token burn rate.
+- **Treasury Administration**: Allocating funds for ecosystem development, network support, and partnerships.
+- **Content Supply Verification**: The community may review or refine content specifically during the onboarding process, ensuring alignment with initial guidelines and standards.
+- **Content Regulation**: The community may continuously monitor and oversee content within the network (for example, by veto) whenever it violates community guidelines, security, or legal requirements on the long term.
+- **Validation of the Distribution Network**: Approving and onboarding nodes responsible for content delivery and network operations
 
+---
 
-## 1.7 Projected Organic Growth of the Token Economy
+## 1.9 Projected Organic Growth of the Token Economy
 
 The features detailed above have been introduced into the [Space and Tokens simulation platform](https://cenit.finance) to project the evolution of the token economy over time. These projections focus on the organic growth of the token economy, that is, on the buying and selling pressure coming from protocol users, and not on speculative trading. The full simulation results are available [here](https://spaceandtokens.ai/simulation/71136d43-fa5e-4db2-958b-6f296a4a3265).
 
-The results projected here are based on growth assumptions for the Rent/Subscription/Purchase/etc value proposition, reflected in the following chart:
+The following chart illustrates the growth assumptions for rent/subscription/purchase services:
 
-![Rent/Subscription/Purchase/etc growth](resources/rent/subscription/purchase/etc_growth.png)
+![Rent/Subscription/Purchase](resources/rent/subscription/purchase/etc_growth.png)
 
 ### Token price and market cap
 
-Based on the simulation results, the MMC token is expected to evolve in value as follows:
+Based on the simulation, the MMC Token is projected to evolve in value as follows:
 
 ![Projected KPIs](resources/kpi_48.png)
 
@@ -153,21 +172,25 @@ Based on the simulation results, the MMC token is expected to evolve in value as
 
 ### Protocol fees
 
-The following chart showcases how the fees generated by the protocol are expected to evolve over time, and how they will be distributed.
+The chart below shows how protocol fees are expected to evolve over time and how they will be distributed:
 
 ![Token fees](resources/protocol.png)
 
-By year 4, the protocol is expected to have generated a total value of approximately $76100000 in fees. This is comes from estimating an average service fee of 5.0 %.
+By year 4, the protocol is expected to have generated a total value of approximately **$76,100,000** in fees, assuming an average fee rate of **5%**.
 
 ### Treasury
 
-The treasury is expected to have the following profit and loss:
+Below is the projected profit and loss (P&L) for the treasury:
 
 ![Treasury P&L](resources/treasury_pnl.png)
 
-The treasury is expected to have the following funds under management:
+The following graph shows the expected funds under management:
 
 ![Funds under management](resources/funds_under_management.png)
 
-By year 4, the treasury is expected to have a total value of approximately $431000000 under management, with 99% in native tokens and 0% in other currencies.
+By year 4, the treasury is projected to manage a total value of approximately **$431,000,000**, with 99% held in native tokens and 0% in other currencies.
 
+
+### Conclusion
+
+By implementing these features, the MMC Token becomes a multifaceted instrument capable of powering governance, content creation, technological innovation, and financial sustainability within the protocol. At the same time, it avoids imposing barriers on projects that do not require highly specific use cases. Each initiative can adopt the utilities that best align with its goals and needs, fostering a **diverse, robust, and ever-evolving ecosystem**.
