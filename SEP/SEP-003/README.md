@@ -67,7 +67,7 @@ The MMC Token distribution is designed to incentivize early adopters, contributo
 - **Content Growth & Support**: Incentivize the creation and expansion of high-quality content within the platform.
 - **Network Effects Support**: Encouraging behaviors like:
   - Providing valuable feedback.
-  - Uploading high-quality content.
+  - Onboarding high-quality content.
   - Building a strong reputation.
   - Referrals that expand the user base.
 
