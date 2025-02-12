@@ -65,6 +65,7 @@ The MMC Token distribution is designed to incentivize early adopters, contributo
 - **Grants & Partnerships**: Supporting ecosystem growth through strategic collaborations.
 - **Rewards**: Distributed for engaging in quests, staking, governance, prizes, and community activities.
 - **Content Growth & Support**: Incentivize the creation and expansion of high-quality content within the platform.
+- **Nodes Incentives**: Ensuring long-term incentives for network participants.
 - **Network Effects Support**: Encouraging behaviors like:
   - Providing valuable feedback.
   - Onboarding high-quality content.
