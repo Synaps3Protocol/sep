@@ -59,7 +59,7 @@ MMC token distribution is structured to ensure long-term sustainability while re
 The MMC Token distribution is designed to incentivize early adopters, contributors, and network participants while ensuring the ecosystem's sustainability. Key mechanisms include:
 
 - **Conditional Exclusive Airdrops**: Rewards for loyalty, early adoption during testnet, and early creators.  
-  _(Details: [HackMD Airdrops](https://hackmd.io/@cKICHHrfSOqOUrWKb1sFbg/Sy9sinJMJx))_
+  _(Details: [Loyalty Points](https://hackmd.io/@gmena/BkymEWL9yx))_
 - **Private Sale**: Raising initial funds for product development, operations, and team expansion.
 - **Vesting**: Gradual token releases for long-term stakeholders.
 - **Grants & Partnerships**: Supporting ecosystem growth through strategic collaborations.
