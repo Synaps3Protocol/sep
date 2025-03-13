@@ -12,7 +12,7 @@ This document outlines the economic structure and utility framework of the MMC t
 
 ## 1.1 Token Supply and Initial Distribution
 
-The total maximum supply of **1,000,000,000** MMC tokens is designed to ensure scarcity and long-term value preservation. These tokens will be released over a 72-month vesting period. During the private sale, **10%** of the total supply (**100,000,000 MMC**) will be allocated, targeting a fundraising goal of **$10,000,000**.
+The total maximum supply of **1,000,000,000** MMC tokens is designed to ensure scarcity and long-term value preservation. During the private sale, **10%** of the total supply (**100,000,000 MMC**) will be allocated, targeting a fundraising goal of **$10,000,000**.
 
 ## 1.2 Initial Price Determination
 
@@ -39,12 +39,11 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | Cex/Dex                          |                5 |                       0 |                       0 |                           0 |
 | Investors Round 1                |                7 |                      12 |                       6 |                          18 |
 | Investors Round 2                |                5 |                      30 |                       6 |                          18 |
-| Investors Round 3                |                3 |                      48 |                       3 |                          18 |
 | Founder/Team Round 1             |                4 |                       0 |                      12 |                          24 |
 | Founder/Team Round 2             |                5 |                      24 |                       6 |                          24 |
 | Founder/Team Round 3             |                6 |                      48 |                       3 |                          24 |
 | Initial Network Reserve          |                6 |                       0 |                       0 |                          48 |
-| Rewards & Incentives             |               12 |                       2 |                       0 |                          60 |
+| Rewards & Incentives             |               15 |                       2 |                       0 |                          60 |
 | Content Growth & Support 1       |                6 |                       0 |                       0 |                          36 |
 | Content Growth & Support 2       |                5 |                      36 |                       0 |                          36 |
 | Marketing                        |                5 |                       3 |                       0 |                          36 |
