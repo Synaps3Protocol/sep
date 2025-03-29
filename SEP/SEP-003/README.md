@@ -55,8 +55,10 @@ MMC token distribution is structured to ensure long-term sustainability while re
 
 **Note on Investor Allocations**
 
-- *Investors Round 1 & 2* correspond to structured fundraising rounds (e.g., Seed, Series A) with institutional investors and strategic partners. These rounds have different vesting schedules to reflect their respective entry stages.  
-- The *Private Sale* is a broader allocation reserved for early supporters and strategic individuals who participated prior to public availability, with longer lock-up periods to promote long-term alignment.
+- *Investors Round 1 & 2* refer to structured fundraising rounds involving institutional investors and strategic partners, such as those commonly categorized as Seed or Series A. These participants were granted token allocations with specific vesting schedules reflecting their respective entry stages and long-term alignment with the project.
+- The *Private Sale* allocation is designated for selected early supporters and strategic collaborators who were granted access prior to the public phase. These allocations are subject to longer lock-up periods and vesting terms to ensure sustained commitment to the protocol’s development.
+
+These categories are distinct: the Investors Rounds involved institutional financing under formal agreements, while the Private Sale was conducted under restricted access, without any public offering, and in compliance with applicable jurisdictional requirements.
 
 ## 1.4 Distribution Mechanism (Token Distribution)
 
