@@ -53,6 +53,11 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | Private Sale                     |               10 |                       0 |                       8 |                          36 |
 | Advisors/Legals                  |                4 |                       0 |                       6 |                          24 |
 
+**Note on Investor Allocations**
+
+- *Investors Round 1 & 2* correspond to structured fundraising rounds (e.g., Seed, Series A) with institutional investors and strategic partners. These rounds have different vesting schedules to reflect their respective entry stages.  
+- The *Private Sale* is a broader allocation reserved for early supporters and strategic individuals who participated prior to public availability, with longer lock-up periods to promote long-term alignment.
+
 ## 1.4 Distribution Mechanism (Token Distribution)
 
 The MMC Token distribution is designed to incentivize early adopters, contributors, and network participants while ensuring the ecosystem's sustainability. Key mechanisms include:
