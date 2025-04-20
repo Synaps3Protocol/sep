@@ -87,7 +87,9 @@ MMC serves as the foundational asset within the ecosystem, supporting:
 3. **Content Access**: Used for content monetization models (subscriptions, rentals, paywalls).
 4. **Premium Services**: Unlock AI analytics, marketing tools, and content processing.
 5. **Rights Market**:  Enable decentralized IP trade and leasing.
-6. **IP Lending/Borrowing** : Provide liquidity through collateralized IP.
+6. **IP Lending/Borrowing**: Provide liquidity through collateralized IP.
+7. **Creator Crowdfunding**: Fund creative proposals and participate in fractional ownership.
+8. **Audience Interaction**: Enable tips, live sessions, commissions, and microtransactions.
 
 ## 1.6 Inflation/Deflation Model
 
