@@ -22,7 +22,7 @@ The initial price per token is derived from the following formula:
 
 To mitigate volatility and enhance market stability:
 
-- 50% of the capital raised will be allocated to liquidity provision via Market Makers.
+- 60% of the capital raised will be allocated to liquidity provision via Market Makers.
 - A fixed token supply minimizes the risk of supply shocks, ensuring gradual and organic value appreciation.
 - Market-making strategies will support a balanced liquidity environment and minimize excessive price fluctuations.
 
@@ -36,7 +36,7 @@ MMC token distribution is structured to ensure long-term sustainability while re
 
 | Entity                           |   Allocation (%) |   Vesting Start (month) |   Vesting Cliff (month) |   Vesting Duration (months) |
 |:---------------------------------|-----------------:|------------------------:|------------------------:|----------------------------:|
-| Cex/Dex                          |                5 |                       0 |                       0 |                           0 |
+| Cex/Dex                          |                3 |                       0 |                       0 |                           0 |
 | Investors Round 1                |                7 |                      12 |                       6 |                          18 |
 | Investors Round 2                |                5 |                      30 |                       6 |                          18 |
 | Founder/Team Round 1             |                4 |                       0 |                      12 |                          24 |
