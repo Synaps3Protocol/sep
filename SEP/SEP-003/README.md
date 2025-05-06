@@ -39,11 +39,11 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | Cex/Dex                          |                3 |                       0 |                       0 |                           0 |
 | Investors Round 1                |                7 |                      12 |                       6 |                          18 |
 | Investors Round 2                |                5 |                      30 |                       6 |                          18 |
-| Founder/Team Round 1             |                5 |                       0 |                      12 |                          24 |
+| Founder/Team Round 1             |                4 |                       0 |                      12 |                          24 |
 | Founder/Team Round 2             |                5 |                      24 |                       6 |                          24 |
 | Founder/Team Round 3             |                6 |                      48 |                       3 |                          24 |
 | Initial Network Reserve          |                8 |                       0 |                       0 |                          48 |
-| Rewards & Incentives             |               15 |                       2 |                       0 |                          60 |
+| Rewards & Incentives             |               16 |                       2 |                       0 |                          60 |
 | Content Growth & Support 1       |                6 |                       0 |                       0 |                          36 |
 | Content Growth & Support 2       |                7 |                      36 |                       0 |                          36 |
 | Marketing                        |                5 |                       3 |                       0 |                          36 |
