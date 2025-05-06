@@ -39,7 +39,7 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | Cex/Dex                          |                3 |                       0 |                       0 |                           0 |
 | Investors Round 1                |                7 |                      12 |                       6 |                          18 |
 | Investors Round 2                |                5 |                      30 |                       6 |                          18 |
-| Founder/Team Round 1             |                4 |                       0 |                      12 |                          24 |
+| Founder/Team Round 1             |                5 |                       0 |                      12 |                          24 |
 | Founder/Team Round 2             |                5 |                      24 |                       6 |                          24 |
 | Founder/Team Round 3             |                6 |                      48 |                       3 |                          24 |
 | Initial Network Reserve          |                8 |                       0 |                       0 |                          48 |
@@ -48,7 +48,7 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | Content Growth & Support 2       |                7 |                      36 |                       0 |                          36 |
 | Marketing                        |                5 |                       3 |                       0 |                          36 |
 | Ecosystem Growth & Partnership 1 |                7 |                       0 |                       0 |                          36 |
-| Ecosystem Growth & Partnership 2 |                5 |                      36 |                       0 |                          24 |
+| Ecosystem Growth & Partnership 2 |                6 |                      36 |                       0 |                          24 |
 | Research & Development           |                6 |                       6 |                       0 |                          36 |
 | Private Sale                     |                5 |                       0 |                       8 |                          36 |
 | Advisors/Legals                  |                4 |                       0 |                       6 |                          24 |
