@@ -12,7 +12,7 @@ This document outlines the economic structure and utility framework of the MMC t
 
 ## 1.1 Token Supply and Initial Distribution
 
-The total maximum supply of **1,000,000,000** MMC tokens is designed to ensure scarcity and long-term value preservation. During the private sale, **5%** of the total supply (**100,000,000 MMC**) will be allocated, targeting a fundraising goal of **$5,000,000**.
+The total maximum supply of **1,000,000,000** MMC tokens is designed to ensure scarcity and long-term value preservation. During the private sale, **5%** of the total supply (**50,000,000 MMC**) will be allocated, targeting a fundraising goal of **$5,000,000**.
 
 ## 1.2 Initial Price Determination
 
