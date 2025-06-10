@@ -171,7 +171,7 @@ The following chart illustrates the growth assumptions for rent/subscription/pur
 
 Based on the simulation, the MMC Token is projected to evolve in value as follows:
 
-![Projected KPIs](resources/kpi_48.png)
+![Projected KPIs](https://github.com/user-attachments/assets/243a12c5-7555-4b40-9556-6887135f0a23)
 
 ![Token price](resources/token_price.png)
 
