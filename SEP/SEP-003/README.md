@@ -12,7 +12,12 @@ This document outlines the economic structure and utility framework of the MMC t
 
 ## 1.1 Token Supply and Initial Distribution
 
-The total maximum supply of **1,000,000,000** MMC tokens is designed to ensure scarcity and long-term value preservation. During the private sale, **5%** of the total supply (**50,000,000 MMC**) will be allocated, targeting a fundraising goal of **$5,000,000**.
+The total maximum supply of **1,000,000,000** MMC tokens is designed to ensure scarcity and long-term value preservation. During the private sale, **5%** of the total supply (**50,000,000 MMC**) will be allocated, targeting a fundraising goal of **$2,500,000**.
+
+## Use of Private Sale Funds:
+- 60% of capital raised will be allocated to liquidity provision via Market Makers or protocol-managed liquidity strategies (e.g., Arrakis, GYSR).
+- 40% will support product development, legal/audit expenses, and core team expansion.
+- A portion may be reserved for strategic buybacks or user incentives to bootstrap adoption.
 
 ## 1.2 Initial Price Determination
 
@@ -22,9 +27,10 @@ The initial price per token is derived from the following formula:
 
 To mitigate volatility and enhance market stability:
 
-- 60% of the capital raised will be allocated to liquidity provision via Market Makers.
-- A fixed token supply minimizes the risk of supply shocks, ensuring gradual and organic value appreciation.
-- Market-making strategies will support a balanced liquidity environment and minimize excessive price fluctuations.
+- Market-making will be conducted through a hybrid model, possibly involving institutional partners or automated vaults.
+- If the protocol provides both sides of the MMC/USDC pair, strict custody rules and transparency measures will be applied.
+- Liquidity mining programs may be used in parallel to reward early LPs.
+- Future strategic rounds may use a higher price per token to reflect project progress and reduced early-stage risk.
 
 ## 1.3 Allocation and Vesting Schedule
 
