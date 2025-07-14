@@ -127,8 +127,7 @@ In the long run, the combination of emissions and burns balances supply and dema
 
 ## 1.7 Fee Rate & Distribution
 
-The protocol applies an initial **5%** fee on transactions.
-For example, this fee could be distributed as follows:
+The protocol applies an initial **5%** fee on transactions, distributed as follows:
 
 - **Treasury: 50%**  
   Supports ecosystem growth, grants, development, and operational costs.
