@@ -127,7 +127,8 @@ In the long run, the combination of emissions and burns balances supply and dema
 
 ## 1.7 Fee Rate & Distribution
 
-The protocol applies an initial **5%** fee on transactions, distributed as follows:
+The protocol applies an initial **5%** fee on transactions.
+For example, this fee could be distributed as follows:
 
 - **Treasury: 50%**  
   Supports ecosystem growth, grants, development, and operational costs.
@@ -151,7 +152,6 @@ MMC Token holders play a crucial role in the decentralized governance of the eco
 Through governance, the community can influence aspects such as:
 
 - **Fee Rate**: Adjusting the percentage applied to transactions.
-- **Deflation Control**: Modifying the token burn rate.
 - **Treasury Administration**: Allocating funds for ecosystem development, network support, and partnerships.
 - **Content Supply Verification**: The community may review or refine content specifically during the onboarding process, ensuring alignment with initial guidelines and standards.
 - **Content Regulation**: The community may continuously monitor and oversee content within the network (for example, by veto) whenever it violates community guidelines, security, or legal requirements on the long term.
