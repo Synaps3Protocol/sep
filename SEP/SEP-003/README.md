@@ -132,7 +132,6 @@ Treasury funds are strategically allocated to ensure the protocol's long-term su
 - Ecosystem growth and strategic partnerships.
 - R&D and continuous protocol enhancements.
 - Liquidity reinforcement and buybacks.
-- Incentives for custodians and network infrastructure.
 - Emergency reserves.
 
 > Allocation and utilization of Treasury funds are subject to governance oversight and community proposals.
