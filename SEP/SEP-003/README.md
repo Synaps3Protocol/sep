@@ -44,19 +44,19 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | CEX/DEX Liquidity                | 7              | 0                     | 0              | 0                         | Deployed progressively as Private Sale tranches close (0-8 months) |
 | Investors Round 1 (Seed)         | 5              | 0                     | 6              | 18                        | SAFT signed 12 months pre-TGE |
 | Investors Round 2 (Growth)       | 5              | 12                    | 8              | 18                        | SAFT signed at month 6 post-TGE (subject to KPIs) |
-| Private Sale                     | 5              | 0                     | 8              | 24                        | Tranches executed across months 0-8 |
-| Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Allocated to founding team and early core contributors |
+| Private Sale                     | 5              | 0                     | 8              | 24                        | Tokens are fully locked for 8 m, then vest linearly over 24 m. NONE of these tokens seed liquidity; only the USDC raised (80 %) funds the pool. |
+| Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Founding team & early core contributors |
 | Founder/Team Round 2             | 5              | 18                    | 6              | 24                        | Supports team expansion during scaling phase |
 | Founder/Team Round 3             | 6              | 48                    | 3              | 24                        | Conditional on achieving strategic KPIs|
-| Initial Network Reserve          | 8              | 0                     | 0              | 48                        | Streamed for early Custodians and infrastructure incentives |
+| Initial Network Reserve          | 8              | 0                     | 0              | 48                        | Incentives for early custodians & infra |
 | Rewards & Incentives             | 16             | 2                     | 0              | 60                        | Streamed to community participation and engagement |
-| Content Growth & Support 1       | 4              | 0                     | 0              | 36                        | Streamed to bootstrap content creation and ecosystem development |
-| Content Growth & Support 2       | 7              | 36                    | 0              | 36                        | Streamed to sustain long-term content and growth initiatives |
-| Marketing                        | 5              | 3                     | 0              | 36                        | Streamed to support brand awareness, adoption, and partnerships |
-| Ecosystem Growth & Partnership 1 | 7              | 0                     | 0              | 36                        | Streamed to support brand awareness, adoption, and partnerships |
-| Ecosystem Growth & Partnership 2 | 6              | 36                    | 0              | 24                        | Further partnerships and ecosystem scaling |
-| Research & Development           | 6              | 6                     | 0              | 36                        | Funding for protocol R&D, innovation, and technological improvements |
-| Advisors & Legal                 | 4              | 0                     | 6              | 24                        | Advisory, legal counsel, and compliance support |
+| Content Growth & Support 1       | 4              | 0                     | 0              | 36                        | Bootstrap content creation  |
+| Content Growth & Support 2       | 7              | 36                    | 0              | 36                        | Sustain long-term content & growth |
+| Marketing                        | 5              | 3                     | 0              | 36                        | Brand awareness, adoption & partnerships |
+| Ecosystem Growth & Partnership 1 | 7              | 0                     | 0              | 36                        | Early ecosystem partnerships |
+| Ecosystem Growth & Partnership 2 | 6              | 36                    | 0              | 24                        | Further partnerships and scaling |
+| Research & Development           | 6              | 6                     | 0              | 36                        | Protocol R&D and innovation |
+| Advisors & Legal                 | 4              | 0                     | 6              | 24                        | Advisory, legal counsel & compliance |
 
 
 ## 1.4 Distribution Mechanism (Token Distribution)
@@ -115,12 +115,15 @@ Tokens are strategically removed or temporarily locked to reduce the circulating
 The protocol applies an initial **5%** fee on transactions. 
 This fee is distributed as follows:
 
-- **Treasury: 50%**  
+- **Treasury: 40%**  
   Funds ecosystem growth, grants, research and development, partnerships, and infrastructure incentives.
-- **Staking Pool: 20%**  
-  Rewards participants who stake MMC Tokens.
-- **Burn Rate: 30%**  
+- **Custodian Rewards Pool: 30 %**  
+Variable pool that pays storage/bandwidth nodes
+- **Burn Rate: 20%**  
   Permanently removes tokens from circulation to maintain scarcity and value.
+- **Staking Pool: 10%**  
+  Rewards participants who stake MMC Tokens.
+
 
 ### 1.7.1 Treasury Utilization
 
@@ -155,6 +158,7 @@ MMC Token holders play a crucial role in the decentralized governance of the eco
 Through governance, the community can influence aspects such as:
 
 - **Fee Rate**: Adjusting the percentage applied to transactions.
+- **Deflation Control**: Modifying the token burn rate.
 - **Treasury Administration**: Allocating funds for ecosystem development, network support, and partnerships.
 - **Content Supply Verification**: The community may review or refine content specifically during the onboarding process, ensuring alignment with initial guidelines and standards.
 - **Content Regulation**: The community may continuously monitor and oversee content within the network (for example, by veto) whenever it violates community guidelines, security, or legal requirements on the long term.
