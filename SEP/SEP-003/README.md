@@ -44,7 +44,7 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | CEX/DEX Liquidity                | 7              | 0                     | 0              | 0                         | Deployed progressively as Private Sale tranches close (0-8 months) |
 | Investors Round 1 (Seed)         | 5              | 0                     | 6              | 18                        | SAFT signed 12 months pre-TGE |
 | Investors Round 2 (Growth)       | 5              | 12                    | 8              | 18                        | SAFT signed at month 6 post-TGE (subject to KPIs) |
-| Private Sale                     | 5              | 0                     | 8              | 24                        | Tokens are fully locked for 8 m, then vest linearly over 24 m. NONE of these tokens seed liquidity; only the USDC raised (80 %) funds the pool. |
+| Liquidity Bootstrap Round (LBR)	 | 5              | 0                     | 8              | 24                        | Tokens are fully locked for 8 m, then vest linearly over 24 m. NONE of these tokens seed liquidity; only the USDC raised (80 %) funds the pool. |
 | Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Founding team & early core contributors |
 | Founder/Team Round 2             | 5              | 18                    | 6              | 24                        | Supports team expansion during scaling phase |
 | Founder/Team Round 3             | 6              | 48                    | 3              | 24                        | Conditional on achieving strategic KPIs|
@@ -123,7 +123,6 @@ Variable pool that pays storage/bandwidth nodes
   Permanently removes tokens from circulation to maintain scarcity and value.
 - **Staking Pool: 10%**  
   Rewards participants who stake MMC Tokens.
-
 
 ### 1.7.1 Treasury Utilization
 
