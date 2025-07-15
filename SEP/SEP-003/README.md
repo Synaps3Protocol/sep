@@ -14,8 +14,8 @@ This document outlines the economic structure and utility framework of the MMC t
 The total maximum supply of **1,000,000,000** MMC tokens is designed to ensure scarcity and long-term value preservation. During the private sale, **5%** of the total supply (**50,000,000 MMC**) will be allocated, targeting a fundraising goal of **$2,500,000**.
 
 ### Use of Private Sale Funds:
-- 60% of capital raised will be allocated to liquidity provision via Market Makers or protocol-managed liquidity strategies (e.g., Arrakis, GYSR).
-- 40% will support product development, legal/audit expenses, and core team expansion.
+- 80% of capital raised will be allocated to liquidity provision via Market Makers or protocol-managed liquidity strategies (e.g., Arrakis, GYSR).
+- 20% will support product development, legal/audit expenses, and core team expansion.
 - A portion may be reserved for strategic buybacks or user incentives to bootstrap adoption.
 
 ## 1.2 Initial Price Determination
@@ -41,16 +41,16 @@ MMC token distribution is structured to ensure long-term sustainability while re
 
 | Entity                           | Allocation (%) | Vesting Start (month) | Cliff (months) | Vesting Duration (months) | Notes |
 |:---------------------------------|---------------:|----------------------:|---------------:|--------------------------:|:------|
-| CEX/DEX Liquidity                | 3              | 0                     | 0              | 0                         | Deployed progressively as Private Sale tranches close (0-8 months) |
+| CEX/DEX Liquidity                | 7              | 0                     | 0              | 0                         | Deployed progressively as Private Sale tranches close (0-8 months) |
 | Investors Round 1 (Seed)         | 5              | 0                     | 6              | 18                        | SAFT signed 12 months pre-TGE |
-| Investors Round 2 (Growth)       | 5              | 12                    | 6              | 18                        | SAFT signed at month 6 post-TGE (subject to KPIs) |
-| Private Sale                     | 5              | 0                     | 8              | 36                        | Tranches executed across months 0-8 |
+| Investors Round 2 (Growth)       | 5              | 12                    | 8              | 18                        | SAFT signed at month 6 post-TGE (subject to KPIs) |
+| Private Sale                     | 5              | 0                     | 8              | 24                        | Tranches executed across months 0-8 |
 | Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Allocated to founding team and early core contributors |
 | Founder/Team Round 2             | 5              | 18                    | 6              | 24                        | Supports team expansion during scaling phase |
 | Founder/Team Round 3             | 6              | 48                    | 3              | 24                        | Conditional on achieving strategic KPIs|
 | Initial Network Reserve          | 8              | 0                     | 0              | 48                        | Streamed for early Custodians and infrastructure incentives |
-| Rewards & Incentives             | 18             | 2                     | 0              | 60                        | Streamed to community participation and engagement |
-| Content Growth & Support 1       | 6              | 0                     | 0              | 36                        | Streamed to bootstrap content creation and ecosystem development |
+| Rewards & Incentives             | 16             | 2                     | 0              | 60                        | Streamed to community participation and engagement |
+| Content Growth & Support 1       | 4              | 0                     | 0              | 36                        | Streamed to bootstrap content creation and ecosystem development |
 | Content Growth & Support 2       | 7              | 36                    | 0              | 36                        | Streamed to sustain long-term content and growth initiatives |
 | Marketing                        | 5              | 3                     | 0              | 36                        | Streamed to support brand awareness, adoption, and partnerships |
 | Ecosystem Growth & Partnership 1 | 7              | 0                     | 0              | 36                        | Streamed to support brand awareness, adoption, and partnerships |
@@ -112,7 +112,8 @@ Tokens are strategically removed or temporarily locked to reduce the circulating
 
 ## 1.7 Fee Rate & Distribution
 
-The protocol applies an initial **5%** fee on transactions. This fee is distributed as follows:
+The protocol applies an initial **5%** fee on transactions. 
+This fee is distributed as follows:
 
 - **Treasury: 50%**  
   Funds ecosystem growth, grants, research and development, partnerships, and infrastructure incentives.
@@ -123,7 +124,7 @@ The protocol applies an initial **5%** fee on transactions. This fee is distribu
 
 ### 1.7.1 Treasury Utilization
 
-Treasury funds are strategically allocated to ensure the protocol’s long-term sustainability and growth:
+Treasury funds are strategically allocated to ensure the protocol's long-term sustainability and growth:
 
 - Ecosystem growth and strategic partnerships.
 - R&D and continuous protocol enhancements.
