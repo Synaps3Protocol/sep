@@ -9,7 +9,6 @@
 
 This document outlines the economic structure and utility framework of the MMC token, including its issuance, allocation, vesting schedules, distribution mechanisms, inflationary and deflationary mechanisms, fee structures, governance model, and projected economic impact. The proposal seeks to ensure the long-term sustainability of the MMC ecosystem by establishing a tokenomic framework that incentivizes adoption, supports network participants, and aligns stakeholder interests.
 
-
 ## 1.1 Token Supply and Initial Distribution
 
 The total maximum supply of **1,000,000,000** MMC tokens is designed to ensure scarcity and long-term value preservation. During the private sale, **5%** of the total supply (**50,000,000 MMC**) will be allocated, targeting a fundraising goal of **$2,500,000**.
@@ -111,25 +110,13 @@ Tokens are strategically removed or temporarily locked to reduce the circulating
 - **Buybacks & Treasury Locking**: Tokens purchased from the market are either stored in the treasury or burned.
 - **Staking**: Temporarily locks tokens, reducing the active circulating supply.
 
-### 1.6.3 **Future Approach**
-
-A hybrid model is planned, combining:
-
-- **Token emissions based on delivered content:**  
-  Custodians nodes are rewarded with newly minted tokens proportional to the amount of content they successfully deliver across the network. This mechanism ties token supply growth directly to actual network usage and demand..
-- **Token burns:**  
-  A portion of fees collected on transactions is permanently burned, reducing total supply and fostering scarcity.
-  
-In the long run, this combination balances supply and demand, stabilizes the token’s value, and promotes sustainable ecosystem growth. It ensures that inflation is directly correlated with actual protocol activity, while deflation mechanisms control long-term supply, fostering a robust and engaged blockchain community.
-
-
 ## 1.7 Fee Rate & Distribution
 
 The protocol applies an initial **5%** fee on transactions.
 For example, this fee could be distributed as follows:
 
 - **Treasury: 50%**  
-  Supports ecosystem growth, grants, development, and operational costs.
+  Supports ecosystem growth, grants, development, and network incetives.
 - **Staking Pool: 20%**  
   Incentivize participants who stake MMC Tokens.
 - **Burn Rate: 30%**  
