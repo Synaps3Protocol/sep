@@ -43,21 +43,21 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | Entity                           | Allocation (%) | Vesting Start (month) | Cliff (months) | Vesting Duration (months) | Notes |
 |:---------------------------------|---------------:|----------------------:|---------------:|--------------------------:|:------|
 | CEX/DEX Liquidity                | 3              | 0                     | 0              | 0                         | Deployed progressively as Private Sale tranches close (0-8 months) |
-| Investors Round 1 (Seed)         | 5              | 0                     | 6              | 18                        | SAFT signed 6 months pre-TGE |
-| Investors Round 2 (Strategic A)  | 5              | 12                    | 6              | 18                        | SAFT signed at month 6 post-TGE (subject to KPIs) |
+| Investors Round 1 (Seed)         | 5              | 0                     | 6              | 18                        | SAFT signed 12 months pre-TGE |
+| Investors Round 2 (Growth)       | 5              | 12                    | 6              | 18                        | SAFT signed at month 6 post-TGE (subject to KPIs) |
 | Private Sale                     | 5              | 0                     | 8              | 36                        | Tranches executed across months 0-8 |
-| Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | — |
-| Founder/Team Round 2             | 5              | 18                    | 6              | 24                        | Advanced to support scaling phase |
-| Founder/Team Round 3 (KPI)       | 6              | 48                    | 3              | 24                        | KPI conditional |
-| Initial Network Reserve          | 8              | 0                     | 0              | 48                        | Streamed |
-| Rewards & Incentives             | 18             | 2                     | 0              | 60                        | Streamed |
-| Content Growth & Support 1       | 6              | 0                     | 0              | 36                        | Streamed |
-| Content Growth & Support 2       | 7              | 36                    | 0              | 36                        | Streamed |
-| Marketing                        | 5              | 3                     | 0              | 36                        | Streamed |
-| Ecosystem Growth & Partnership 1 | 7              | 0                     | 0              | 36                        | — |
-| Ecosystem Growth & Partnership 2 | 6              | 36                    | 0              | 24                        | — |
-| Research & Development           | 6              | 6                     | 0              | 36                        | — |
-| Advisors & Legal                 | 4              | 0                     | 6              | 24                        | — |
+| Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Allocated to founding team and early core contributors |
+| Founder/Team Round 2             | 5              | 18                    | 6              | 24                        | Supports team expansion during scaling phase |
+| Founder/Team Round 3             | 6              | 48                    | 3              | 24                        | Conditional on achieving strategic KPIs|
+| Initial Network Reserve          | 8              | 0                     | 0              | 48                        | Streamed for early Network Nodes and infrastructure incentives |
+| Rewards & Incentives             | 18             | 2                     | 0              | 60                        | Streamed to incentivize user participation and engagement |
+| Content Growth & Support 1       | 6              | 0                     | 0              | 36                        | Streamed to bootstrap content creation and ecosystem development |
+| Content Growth & Support 2       | 7              | 36                    | 0              | 36                        | Streamed to sustain long-term content and growth initiatives |
+| Marketing                        | 5              | 3                     | 0              | 36                        | Streamed to support brand awareness, adoption, and partnerships |
+| Ecosystem Growth & Partnership 1 | 7              | 0                     | 0              | 36                        | Streamed to support brand awareness, adoption, and partnerships |
+| Ecosystem Growth & Partnership 2 | 6              | 36                    | 0              | 24                        | Further partnerships and ecosystem scaling |
+| Research & Development           | 6              | 6                     | 0              | 36                        | Funding for protocol R&D, innovation, and technological improvements |
+| Advisors & Legal                 | 4              | 0                     | 6              | 24                        | Advisory, legal counsel, and compliance support |
 
 
 ## 1.4 Distribution Mechanism (Token Distribution)
@@ -137,7 +137,7 @@ For example, this fee could be distributed as follows:
 
 ## 1.8 Governance and Voting Rights
 
-MMC Token holders play a crucial role in the decentralized governance of the ecosystem. A token-weighted voting system is used, where participants’ voting power is directly proportional to the number of MMC Tokens they hold. This ensures that those most invested in the platform have a meaningful voice in shaping its direction, fostering responsibility and accountability within the community.
+MMC Token holders play a crucial role in the decentralized governance of the ecosystem. A quadratic voting system is used, where participants' voting power increases with the number of MMC tokens they hold, but with diminishing returns. This mechanism ensures that while larger stakeholders maintain influence, broader community participation is incentivized, preventing governance capture by a concentrated minority. It fosters a more balanced decision-making process, reinforcing responsibility, diversity of opinion, and accountability within the ecosystem.
 
 ### Governance Process
 
