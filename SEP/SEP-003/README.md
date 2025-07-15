@@ -42,7 +42,7 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | Entity                           | Allocation (%) | Vesting Start (month) | Cliff (months) | Vesting Duration (months) | Notes |
 |:---------------------------------|---------------:|----------------------:|---------------:|--------------------------:|:------|
 | CEX/DEX Liquidity                | 7              | 0                     | 0              | 0                         | Deployed progressively as Private Sale tranches close (0-8 months) |
-| Investors Round 1 (Seed)         | 5              | 0                     | 6              | 18                        | SAFT signed 12 months pre-TGE |
+| Investors Round 1 (Seed)         | 3              | 0                     | 6              | 18                        | SAFT signed 12 months pre-TGE |
 | Investors Round 2 (Growth)       | 5              | 12                    | 8              | 18                        | SAFT signed at month 6 post-TGE (subject to KPIs) |
 | Liquidity Bootstrap Round (LBR)	 | 5              | 0                     | 8              | 24                        | Tokens are fully locked for 8 m, then vest linearly over 24 m. NONE of these tokens seed liquidity; only the USDC raised (80 %) funds the pool. |
 | Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Founding team & early core contributors |
@@ -50,13 +50,13 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | Founder/Team Round 3             | 6              | 48                    | 3              | 24                        | Conditional on achieving strategic KPIs|
 | Initial Network Reserve          | 8              | 0                     | 0              | 48                        | Incentives for early custodians & infra |
 | Rewards & Incentives             | 16             | 2                     | 0              | 60                        | Streamed to community participation and engagement |
-| Content Growth & Support 1       | 4              | 0                     | 0              | 36                        | Bootstrap content creation  |
+| Content Growth & Support 1       | 5              | 0                     | 0              | 36                        | Bootstrap content creation  |
 | Content Growth & Support 2       | 7              | 36                    | 0              | 36                        | Sustain long-term content & growth |
 | Marketing                        | 5              | 3                     | 0              | 36                        | Brand awareness, adoption & partnerships |
 | Ecosystem Growth & Partnership 1 | 7              | 0                     | 0              | 36                        | Early ecosystem partnerships |
 | Ecosystem Growth & Partnership 2 | 6              | 36                    | 0              | 24                        | Further partnerships and scaling |
 | Research & Development           | 6              | 6                     | 0              | 36                        | Protocol R&D and innovation |
-| Advisors & Legal                 | 4              | 0                     | 6              | 24                        | Advisory, legal counsel & compliance |
+| Advisors & Legal                 | 5              | 0                     | 6              | 24                        | Advisory, legal counsel & compliance |
 
 
 ## 1.4 Distribution Mechanism (Token Distribution)
