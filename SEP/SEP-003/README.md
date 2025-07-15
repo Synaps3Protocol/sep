@@ -123,7 +123,7 @@ The protocol applies an initial **5%** fee on transactions. This fee is distribu
 
 ### 1.7.1 Treasury Utilization
 
-Treasury funds are strategically allocated to long term:
+Treasury funds are strategically allocated to ensure the protocol’s long-term sustainability and growth:
 
 - Ecosystem growth and strategic partnerships.
 - R&D and continuous protocol enhancements.
