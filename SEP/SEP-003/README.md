@@ -119,7 +119,7 @@ This fee is distributed as follows:
   Funds ecosystem growth, grants, research and development, partnerships, and infrastructure incentives.
 - **Custodian Rewards Pool: 30 %**  
 Variable pool that pays storage/bandwidth nodes
-- **Burn Rate: 20%**  
+- **Initial Burn Rate: 20%**  
   Permanently removes tokens from circulation to maintain scarcity and value.
 - **Staking Pool: 10%**  
   Rewards participants who stake MMC Tokens.
