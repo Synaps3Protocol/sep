@@ -112,12 +112,16 @@ Tokens are strategically removed or temporarily locked to reduce the circulating
 - **Staking**: Temporarily locks tokens, reducing the active circulating supply.
 
 ### 1.6.3 **Future Approach**
+
 A hybrid model is planned, combining:
 
-- **Token emissions based on new content** (as an inflationary mechanism).
-- **Token burns** (as a deflationary mechanism).
+- **Token emissions based on delivered content:**  
+  Custodians nodes are rewarded with newly minted tokens proportional to the amount of content they successfully deliver across the network. This mechanism ties token supply growth directly to actual network usage and demand..
+- **Token burns:**  
+  A portion of fees collected on transactions is permanently burned, reducing total supply and fostering scarcity.
+  
+In the long run, this combination balances supply and demand, stabilizes the token’s value, and promotes sustainable ecosystem growth. It ensures that inflation is directly correlated with actual protocol activity, while deflation mechanisms control long-term supply, fostering a robust and engaged blockchain community.
 
-In the long run, the combination of emissions and burns balances supply and demand, stabilizes the token’s value, and promotes sustainable ecosystem growth. This hybrid model incentivizes new content creation while controlling inflation and maintaining scarcity, fostering a robust and engaged blockchain community.
 
 ## 1.7 Fee Rate & Distribution
 
