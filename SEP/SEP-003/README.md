@@ -48,7 +48,7 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Allocated to founding team and early core contributors |
 | Founder/Team Round 2             | 5              | 18                    | 6              | 24                        | Supports team expansion during scaling phase |
 | Founder/Team Round 3             | 6              | 48                    | 3              | 24                        | Conditional on achieving strategic KPIs|
-| Initial Network Reserve          | 8              | 0                     | 0              | 48                        | Streamed for early Network Nodes and infrastructure incentives |
+| Initial Network Reserve          | 8              | 0                     | 0              | 48                        | Streamed for early Custodians and infrastructure incentives |
 | Rewards & Incentives             | 18             | 2                     | 0              | 60                        | Streamed to incentivize user participation and engagement |
 | Content Growth & Support 1       | 6              | 0                     | 0              | 36                        | Streamed to bootstrap content creation and ecosystem development |
 | Content Growth & Support 2       | 7              | 36                    | 0              | 36                        | Streamed to sustain long-term content and growth initiatives |
