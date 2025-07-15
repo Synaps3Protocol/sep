@@ -112,15 +112,32 @@ Tokens are strategically removed or temporarily locked to reduce the circulating
 
 ## 1.7 Fee Rate & Distribution
 
-The protocol applies an initial **5%** fee on transactions.
-For example, this fee could be distributed as follows:
+The protocol applies an initial **5%** fee on transactions. This fee is distributed as follows:
 
 - **Treasury: 50%**  
-  Supports ecosystem growth, grants, development, and network incetives.
+  Funds ecosystem growth, grants, research and development, partnerships, and infrastructure incentives.
 - **Staking Pool: 20%**  
-  Incentivize participants who stake MMC Tokens.
+  Rewards participants who stake MMC Tokens.
 - **Burn Rate: 30%**  
-  Permanently removes tokens to create scarcity and stabilize value.
+  Permanently removes tokens from circulation to maintain scarcity and value.
+
+### 1.7.1 Treasury Utilization
+
+Treasury funds are strategically allocated to long term:
+
+- Ecosystem growth and strategic partnerships.
+- R&D and continuous protocol enhancements.
+- Liquidity reinforcement and buybacks.
+- Incentives for custodians and network infrastructure.
+- Emergency reserves.
+
+> Allocation and utilization of Treasury funds are subject to governance oversight and community proposals.
+
+### 1.7.2 Infrastructure & Staking Rewards
+
+- **Staking rewards** are sourced from the Staking Pool funded by transaction fees.
+- **Custodian incentives** are funded via Treasury allocations and the **Initial Network Reserve** (8% of total supply), ensuring long-term support for network infrastructure.
+
 
 ## 1.8 Governance and Voting Rights
 
