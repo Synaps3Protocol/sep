@@ -37,34 +37,28 @@ To mitigate volatility and enhance market stability:
 MMC token distribution is structured to ensure long-term sustainability while rewarding key stakeholders. The vesting schedule employs a **cliff + linear model**, where:
 
 - Tokens remain locked during the cliff period.
+- All cliffs and linear streams start counting from the **Token Generation Event (TGE)**.
 - Post-cliff, tokens unlock gradually in equal increments over the designated vesting duration.
 
+| Entity                           | Allocation (%) | Vesting Start (month) | Cliff (months) | Vesting Duration (months) | Notes |
+|:---------------------------------|---------------:|----------------------:|---------------:|--------------------------:|:------|
+| CEX/DEX Liquidity                | 3              | 0                     | 0              | 0                         | Deployed progressively as Private Sale tranches close (0-8 months) |
+| Investors Round 1 (Seed)         | 5              | 0                     | 6              | 18                        | SAFT signed 6 months pre-TGE |
+| Investors Round 2 (Strategic A)  | 5              | 12                    | 6              | 18                        | SAFT signed at month 6 post-TGE (subject to KPIs) |
+| Private Sale                     | 5              | 0                     | 8              | 36                        | Tranches executed across months 0-8 |
+| Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | — |
+| Founder/Team Round 2             | 5              | 18                    | 6              | 24                        | Advanced to support scaling phase |
+| Founder/Team Round 3 (KPI)       | 6              | 48                    | 3              | 24                        | KPI conditional |
+| Initial Network Reserve          | 8              | 0                     | 0              | 48                        | Streamed |
+| Rewards & Incentives             | 18             | 2                     | 0              | 60                        | Streamed |
+| Content Growth & Support 1       | 6              | 0                     | 0              | 36                        | Streamed |
+| Content Growth & Support 2       | 7              | 36                    | 0              | 36                        | Streamed |
+| Marketing                        | 5              | 3                     | 0              | 36                        | Streamed |
+| Ecosystem Growth & Partnership 1 | 7              | 0                     | 0              | 36                        | — |
+| Ecosystem Growth & Partnership 2 | 6              | 36                    | 0              | 24                        | — |
+| Research & Development           | 6              | 6                     | 0              | 36                        | — |
+| Advisors & Legal                 | 4              | 0                     | 6              | 24                        | — |
 
-| Entity                           |   Allocation (%) |   Vesting Start (month) |   Vesting Cliff (month) |   Vesting Duration (months) |
-|:---------------------------------|-----------------:|------------------------:|------------------------:|----------------------------:|
-| Cex/Dex                          |                3 |                       0 |                       0 |                           0 |
-| Investors Round 1                |                5 |                       0 |                       6 |                          18 |
-| Investors Round 2                |                5 |                      18 |                       6 |                          18 |
-| Founder/Team Round 1             |                4 |                       0 |                      12 |                          24 |
-| Founder/Team Round 2             |                5 |                      24 |                       6 |                          24 |
-| Founder/Team Round 3             |                6 |                      48 |                       3 |                          24 |
-| Initial Network Reserve          |                8 |                       0 |                       0 |                          48 |
-| Rewards & Incentives             |               18 |                       2 |                       0 |                          60 |
-| Content Growth & Support 1       |                6 |                       0 |                       0 |                          36 |
-| Content Growth & Support 2       |                7 |                      36 |                       0 |                          36 |
-| Marketing                        |                5 |                       3 |                       0 |                          36 |
-| Ecosystem Growth & Partnership 1 |                7 |                       0 |                       0 |                          36 |
-| Ecosystem Growth & Partnership 2 |                6 |                      36 |                       0 |                          24 |
-| Research & Development           |                6 |                       6 |                       0 |                          36 |
-| Private Sale                     |                5 |                       0 |                       8 |                          36 |
-| Advisors/Legals                  |                4 |                       0 |                       6 |                          24 |
-
-**Note on Investor Allocations**
-
-- *Investors Round 1 & 2* refer to structured fundraising rounds involving institutional investors and strategic partners, such as those commonly categorized as Seed or Series A. These participants were granted token allocations with specific vesting schedules reflecting their respective entry stages and long-term alignment with the project.
-- The *Private Sale* allocation is designated for selected early supporters and strategic collaborators who were granted access prior to the public phase. These allocations are subject to longer lock-up periods and vesting terms to ensure sustained commitment to the protocol’s development.
-
-These categories are distinct: the Investors Rounds involved institutional financing under formal agreements, while the Private Sale was conducted under restricted access, without any public offering, and in compliance with applicable jurisdictional requirements.
 
 ## 1.4 Distribution Mechanism (Token Distribution)
 
@@ -73,7 +67,7 @@ The MMC Token distribution is designed to incentivize early adopters, contributo
 - **Conditional Exclusive Airdrops**: Rewards for loyalty, early adoption during testnet, and early creators.  
   _(Details: [Loyalty Points](https://hackmd.io/@gmena/BkymEWL9yx))_
 - **Private Sale**: Raising initial funds for product development, operations, and team expansion.
-- **Vesting**: Gradual token releases for long-term stakeholders.
+- **Vesting**: Gradual token releases for long-term stakeholders. 
 - **Grants & Partnerships**: Supporting ecosystem growth through strategic collaborations.
 - **Rewards**: Distributed for engaging in quests, staking, governance, prizes, and community activities.
 - **Content Growth & Support**: Incentivize the creation and expansion of high-quality content within the platform.
