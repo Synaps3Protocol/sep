@@ -49,7 +49,7 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | Founder/Team Round 2             | 5              | 18                    | 6              | 24                        | Supports team expansion during scaling phase |
 | Founder/Team Round 3             | 6              | 48                    | 3              | 24                        | Conditional on achieving strategic KPIs|
 | Initial Network Reserve          | 8              | 0                     | 0              | 48                        | Incentives for early custodians & infra |
-| Rewards & Incentives             | 16             | 2                     | 0              | 60                        | Streamed to community participation and engagement |
+| Community                        | 16             | 2                     | 0              | 60                        | Streamed to community participation and engagement |
 | Content Growth & Support 1       | 5              | 0                     | 0              | 36                        | Bootstrap content creation  |
 | Content Growth & Support 2       | 7              | 36                    | 0              | 36                        | Sustain long-term content & growth |
 | Marketing                        | 5              | 3                     | 0              | 36                        | Brand awareness, adoption & partnerships |
@@ -118,7 +118,7 @@ This fee is distributed as follows:
 - **Treasury: 40%**  
   Funds ecosystem growth, grants, research and development, partnerships, and infrastructure incentives.
 - **Custodian Rewards Pool: 30 %**  
-Variable pool that pays storage/bandwidth nodes
+  Variable pool that pays storage/bandwidth nodes
 - **Initial Burn Rate: 20%**  
   Permanently removes tokens from circulation to maintain scarcity and value.
 - **Staking Pool: 10%**  
