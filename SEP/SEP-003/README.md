@@ -11,25 +11,28 @@ This document outlines the economic structure and utility framework of the MMC t
 
 ## 1.1 Token Supply and Initial Distribution
 
-The total maximum supply of **1,000,000,000** MMC tokens is designed to ensure scarcity and long-term value preservation. During the private sale, **5%** of the total supply (**50,000,000 MMC**) will be allocated, targeting a fundraising goal of **$2,500,000**.
+The total maximum supply of **1,000,000,000** MMC tokens is designed to ensure scarcity and long-term value preservation. During the LBR, **5%** of the total supply (**50,000,000 MMC**) will be allocated, targeting a fundraising goal of **$2,500,000**.
 
-### Use of Private Sale Funds:
+### Use of LBR Sale Funds:
 - 80% of capital raised will be allocated to liquidity provision via Market Makers or protocol-managed liquidity strategies (e.g., Arrakis, GYSR).
 - 20% will support product development, legal/audit expenses, and core team expansion.
 - A portion may be reserved for strategic buybacks or user incentives to bootstrap adoption.
+
+> Note: The matching MMC is drawn from the 7% CEX/DEX Liquidity allocation, so LBR purchasers’ tokens remain locked. Tokens sold in the LBR remain locked for 8 months; the USDC they raise, paired with MMC from the 7% Liquidity bucket, seeds the protocol‑owned liquidity (POL) pool; purchasers have no profit expectation beyond pool fees ([TurnKey Jet no‑action precedent](https://www.sec.gov/divisions/corpfin/cf-noaction/2019/turnkey-jet-040219-2a1.htm)).
 
 ## 1.2 Initial Price Determination
 
 The initial price per token is derived from the following formula:
 
-> **Initial Price per Token = Target Funds / Tokens Allocated for Private Sale**
+> **Initial Price per Token = $ 2,500,000 ÷ 50,000,000 MMC = $0.05 per MMC**
 
-To mitigate volatility and enhance market stability:
+| Round            | Price (USD)                             | Discount/Premium vs LBR | Raise target  |
+| ---------------- | --------------------------------------- | ----------------------- | ------------- |
+| **Seed (SAFT)**  | 0.04                                    | −20 %                   | ≈ US $ 1.2 M |
+| **LBR**          | 0.05                                    | —                       | US $ 2.5 M   |
+| **Growth (TSA)** | ≥ max(0.06 USD, CurrentPrice × 1.2)     | ≥ +20 %                 | ≤ US $ 3 M   |
 
-- Market-making will be conducted through a hybrid model, possibly involving institutional partners or automated vaults.
-- If the protocol provides both sides of the MMC/USDC pair, strict custody rules and transparency measures will be applied.
-- Liquidity mining programs may be used in parallel to reward early LPs.
-- Future strategic rounds may use a higher price per token to reflect project progress and reduced early-stage risk.
+FDV hard‑caps: ≤ US $50M (Seed), ≤ US $60M (LBR), ≤ US $80M (Growth).
 
 ## 1.3 Allocation and Vesting Schedule
 
@@ -41,15 +44,15 @@ MMC token distribution is structured to ensure long-term sustainability while re
 
 | Entity                           | Allocation (%) | Vesting Start (month) | Cliff (months) | Vesting Duration (months) | Notes |
 |:---------------------------------|---------------:|----------------------:|---------------:|--------------------------:|:------|
-| CEX/DEX Liquidity                | 7              | 0                     | 0              | 0                         | Deployed progressively as LBR tranches close (0-8 months) |
-| Liquidity Bootstrap Round (LBR)	 | 5              | 0                     | 8              | 24                        | Tokens are fully locked for 8 m, then vest linearly over 24 m. NONE of these tokens seed liquidity; only the USDC raised (80 %) funds the pool. |
-| Investors Round 1 (Seed)         | 3              | 0                     | 6              | 18                        | SAFT signed pre-TGE |
-| Investors Round 2 (Growth)       | 5              | 12                    | 8              | 18                        | TSA signed post-TGE (subject to KPIs) |
-| Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Founding team & early core contributors |
-| Founder/Team Round 2             | 5              | 18                    | 6              | 24                        | Supports team expansion during scaling phase |
-| Founder/Team Round 3             | 6              | 48                    | 3              | 24                        | Conditional on achieving strategic KPIs|
-| Initial Network Reserve          | 8              | 0                     | 0              | 48                        | Incentives for early custodians & infra |
-| Community                        | 16             | 2                     | 0              | 60                        | Streamed to community participation and engagement |
+| CEX/DEX Liquidity                | 7              | 0                     | 0              | 0                         | Released as LBR tranches close (0-8 months) |
+| Liquidity Bootstrap Round (LBR)	 | 5              | 0                     | 8              | 24                        | 100% locked for 8 m, linear 24 m. USDC raised (80%) funds the pool. |
+| Seed Private Round               | 3              | 0                     | 6              | 18                        | SAFT pre‑TGE |
+| Growth Round                     | 5              | 12                    | 8              | 18                        | TSA, KPIs gate price ≥ growth rule |
+| Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Founders & early core |
+| Founder/Team Round 2             | 5              | 18                    | 6              | 24                        | Scaling team |
+| Founder/Team Round 3             | 6              | 48                    | 3              | 24                        | Activates if KPI protocol achievement e.g. fees ≥ US $100 M or 5M MAU|
+| Initial Network Reserve          | 8              | 0                     | 0              | 48                        | Early custodians & infra |
+| Community                        | 16             | 2                     | 0              | 60                        | Community participation and engagement |
 | Content Growth & Support 1       | 5              | 0                     | 0              | 36                        | Bootstrap content creation  |
 | Content Growth & Support 2       | 7              | 36                    | 0              | 36                        | Sustain long-term content & growth |
 | Marketing                        | 5              | 3                     | 0              | 36                        | Brand awareness, adoption & partnerships |
@@ -65,7 +68,7 @@ The MMC Token distribution is designed to incentivize early adopters, contributo
 
 - **Conditional Exclusive Airdrops**: Rewards for loyalty, early adoption during testnet, and early creators.  
   _(Details: [Loyalty Points](https://hackmd.io/@gmena/BkymEWL9yx))_
-- **Private Sale**: Raising initial funds for product development, operations, and team expansion.
+- **Investor Rounds**: Capital from accredited investors via SAFT (Seed) and TSA (Growth) to fund runway and strategic expansion.
 - **Vesting**: Gradual token releases for long-term stakeholders. 
 - **Grants & Partnerships**: Supporting ecosystem growth through strategic collaborations.
 - **Rewards**: Distributed for engaging in quests, staking, governance, prizes, and community activities.
@@ -134,12 +137,6 @@ Treasury funds are strategically allocated to ensure the protocol's long-term su
 - Emergency reserves.
 
 > Allocation and utilization of Treasury funds are subject to governance oversight and community proposals.
-
-### 1.7.2 Infrastructure & Staking Rewards
-
-- **Staking rewards** are sourced from the Staking Pool funded by transaction fees.
-- **Custodian incentives** are funded via Treasury allocations and the **Initial Network Reserve** (8% of total supply), ensuring long-term support for network infrastructure.
-
 
 ## 1.8 Governance and Voting Rights
 
