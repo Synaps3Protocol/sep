@@ -44,10 +44,10 @@ MMC token distribution is structured to ensure long-term sustainability while re
 
 | Entity                           | Allocation (%) | Vesting Start (month) | Cliff (months) | Vesting Duration (months) | Notes |
 |:---------------------------------|---------------:|----------------------:|---------------:|--------------------------:|:------|
-| CEX/DEX Liquidity                | 7              | 0                     | 0              | 0                         | Released as LBR tranches close (0-8 months) |
-| Liquidity Bootstrap Round (LBR)	 | 5              | 0                     | 8              | 24                        | 100% locked for 8 m, linear 24 m. USDC raised (80%) funds the pool. |
-| Seed Private Round               | 3              | 0                     | 6              | 18                        | SAFT pre‑TGE |
-| Growth Round                     | 5              | 12                    | 8              | 18                        | TSA, KPIs gate price ≥ growth rule |
+| Market Makers Liquidity          | 7              | 0                     | 0              | 0                         | LBR tranches close (0-18 months) |
+| Liquidity Bootstrap Round (LBR)	 | 5              | 0                     | 0              | 18                        | LBP, USDC raised (80%) funds the liquidity. |
+| Seed Round                       | 3              | 0                     | 6              | 18                        | SAFT pre‑TGE |
+| Growth Round                     | 5              | 12                    | 8              | 18                        | TSA post-TGE, KPIs gated |
 | Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Founders & early core |
 | Founder/Team Round 2             | 5              | 18                    | 6              | 24                        | Scaling team |
 | Founder/Team Round 3             | 6              | 48                    | 3              | 24                        | Activates if KPI protocol achievement e.g. fees ≥ US $100 M or 5M MAU|
