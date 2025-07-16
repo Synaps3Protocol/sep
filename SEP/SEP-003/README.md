@@ -45,7 +45,7 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | Entity                           | Allocation (%) | Vesting Start (month) | Cliff (months) | Vesting Duration (months) | Notes |
 |:---------------------------------|---------------:|----------------------:|---------------:|--------------------------:|:------|
 | Market Makers Liquidity          | 7              | 0                     | 0              | 0                         | LBR tranches close (0-18 months) |
-| Liquidity Bootstrap Round (LBR)	 | 5              | 0                     | 0              | 18                        | LBP, USDC raised (80%) funds the liquidity. |
+| Liquidity Bootstrap Round (LBR)	 | 5              | 0                     | 8              | 18                        | USDC raised (80%) funds the liquidity. |
 | Seed Round                       | 3              | 0                     | 6              | 18                        | SAFT pre‑TGE |
 | Growth Round                     | 5              | 12                    | 8              | 18                        | TSA post-TGE, KPIs gated |
 | Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Founders & early core |
