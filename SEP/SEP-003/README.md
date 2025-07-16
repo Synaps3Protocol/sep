@@ -18,13 +18,16 @@ This allocation ensures ample initial liquidity, reducing price volatility risks
 - 80% of capital raised will be allocated to liquidity provision via Market Makers or protocol-managed liquidity strategies (e.g., Arrakis, GYSR).
 - 20% will support product development, legal/audit expenses, and core team expansion.
 
-> Note: Note: The matching MMC is sourced from the 7% CEX/DEX Liquidity allocation, ensuring that LBR purchasers’ tokens remain fully locked for 8 months. The USDC raised in the LBR, combined with MMC from the Liquidity bucket, seeds the Protocol-Owned Liquidity (POL) pool, reinforcing market stability. Purchasers have no profit expectation beyond liquidity pool fees, aligning with the SEC’s([TurnKey Jet no‑action precedent](https://www.sec.gov/divisions/corpfin/cf-noaction/2019/turnkey-jet-040219-2a1.htm)).
+> Note: The matching MMC is sourced from the 7% CEX/DEX Liquidity allocation, ensuring that LBR purchasers’ tokens remain fully locked for 8 months. The USDC raised in the LBR, combined with MMC from the Liquidity bucket, seeds the Protocol-Owned Liquidity (POL) pool, reinforcing market stability. LBR participants contribute to the ecosystem by enabling protocol liquidity. No assurance is provided regarding resale opportunities or token value changes in secondary markets, and any returns are strictly limited to proportional liquidity pool fees generated through protocol usage. This framework aligns with the SEC’s ([TurnKey Jet no‑action precedent](https://www.sec.gov/divisions/corpfin/cf-noaction/2019/turnkey-jet-040219-2a1.htm)).
 
 ## 1.2 Initial Price Determination
 
-The initial price per token is derived from the following formula:
+The initial token price in the LBR is not a market valuation, but an operational calculation to determine the MMC quantity allocated per USDC contributed:
 
 > **Initial Price per Token = $ 2,500,000 ÷ 50,000,000 MMC = $0.05 per MMC**
+
+This conversion rate defines only the token allocation within the LBR context and must not be interpreted as an implied or future market value.
+Subsequent funding rounds for growth are structured with premiums to reflect ecosystem development milestones, not as guarantees of market valuation:
 
 | Round            | Price (USD)                             | Discount/Premium vs LBR | Raise target  |
 | ---------------- | --------------------------------------- | ----------------------- | ------------- |
@@ -33,6 +36,9 @@ The initial price per token is derived from the following formula:
 | **Growth (TSA)** | ≥ max(0.06 USD, CurrentPrice × 1.2)     | ≥ +20 %                 | ≤ US $ 3 M   |
 
 FDV hard‑caps: ≤ US $50M (Seed), ≤ US $60M (LBR), ≤ US $80M (Growth).
+> These caps are guidelines for treasury and fundraising strategy, not forecasts of market capitalization.
+The token price evolution, if any, is expected to emerge organically from actual utility and ecosystem growth. 
+Neither the LBR price, nor subsequent fundraising rounds, are determinative of future market prices.
 
 ## 1.3 Allocation and Vesting Schedule
 
@@ -45,7 +51,7 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | Entity                           | Allocation (%) | Vesting Start (month) | Cliff (months) | Vesting Duration (months) | Notes |
 |:---------------------------------|---------------:|----------------------:|---------------:|--------------------------:|:------|
 | Market Makers Liquidity          | 7              | 0                     | 0              | 0                         | LBR tranches close (0-18 months) |
-| Liquidity Bootstrap Round (LBR)	 | 5              | 0                     | 8              | 18                        | USDC raised (80%) funds the liquidity. |
+| Liquidity Bootstrap Round (LBR)	 | 5              | 0                     | 8              | 24                        | USDC raised (80%) funds the liquidity. |
 | Seed Round                       | 3              | 0                     | 6              | 18                        | SAFT pre‑TGE |
 | Growth Round                     | 5              | 12                    | 8              | 18                        | TSA post-TGE, KPIs gated |
 | Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Founders & early core |
@@ -204,7 +210,10 @@ The treasury is expected to have the following funds under management:
 
 By year 4, the treasury is projected to manage a total value of approximately **$470,000,000**, with 99% held in native tokens.
 
+### Final Considerations
 
-### Conclusion
+The MMC Token Economy has been designed to support a sustainable, scalable, and transparent ecosystem, where token utility, community governance, and economic alignment work cohesively. The framework balances incentives for participants with mechanisms that ensure long-term protocol health, avoiding speculative dynamics disconnected from real utility.
 
-By implementing these features, the MMC Token becomes a robust instrument for governance, content creation, technological innovation, and financial sustainability within the protocol. This framework ensures an evolving, diverse, and decentralized ecosystem that supports long-term growth.
+While MMC is structured with diverse use cases and deflationary mechanisms that may contribute to value appreciation, its purpose is fundamentally to power interactions, governance, and services within the Synapse ecosystem. The projections and models presented are intended to illustrate potential growth pathways based on protocol activity, and should not be interpreted as financial forecasts or investment guarantees.
+
+The protocol’s DAO governance ensures that key economic parameters, including treasury utilization, fees, and incentives, remain adaptable to the evolving needs of the network. This design fosters an economy driven by participation, innovation, and collective stewardship, rather than short-term speculation.
