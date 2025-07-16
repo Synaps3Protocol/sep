@@ -18,7 +18,7 @@ This allocation ensures ample initial liquidity, reducing price volatility risks
 - 80% of capital raised will be allocated to liquidity provision via Market Makers or protocol-managed liquidity strategies (e.g., Arrakis, GYSR).
 - 20% will support product development, legal/audit expenses, and core team expansion.
 
-> Note: The matching MMC is drawn from the 7% CEX/DEX Liquidity allocation, so LBR purchasers’ tokens remain locked. Tokens sold in the LBR remain locked for 8 months; the USDC they raise, paired with MMC from the 7% Liquidity bucket, seeds the protocol‑owned liquidity (POL) pool; purchasers have no profit expectation beyond pool fees ([TurnKey Jet no‑action precedent](https://www.sec.gov/divisions/corpfin/cf-noaction/2019/turnkey-jet-040219-2a1.htm)).
+> Note: Note: The matching MMC is sourced from the 7% CEX/DEX Liquidity allocation, ensuring that LBR purchasers’ tokens remain fully locked for 8 months. The USDC raised in the LBR, combined with MMC from the Liquidity bucket, seeds the Protocol-Owned Liquidity (POL) pool, reinforcing market stability. Purchasers have no profit expectation beyond liquidity pool fees, aligning with the SEC’s([TurnKey Jet no‑action precedent](https://www.sec.gov/divisions/corpfin/cf-noaction/2019/turnkey-jet-040219-2a1.htm)).
 
 ## 1.2 Initial Price Determination
 
