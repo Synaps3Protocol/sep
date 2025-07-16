@@ -42,8 +42,8 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | Entity                           | Allocation (%) | Vesting Start (month) | Cliff (months) | Vesting Duration (months) | Notes |
 |:---------------------------------|---------------:|----------------------:|---------------:|--------------------------:|:------|
 | CEX/DEX Liquidity                | 7              | 0                     | 0              | 0                         | Deployed progressively as LBR tranches close (0-8 months) |
-| Investors Round 1 (Seed)         | 3              | 0                     | 6              | 18                        | SAFTs signed pre-TGE |
-| Investors Round 2 (Growth)       | 5              | 12                    | 8              | 18                        | SAFTs signed at month 6 post-TGE (subject to KPIs) |
+| Investors Round 1 (Seed)         | 3              | 0                     | 6              | 18                        | SAFT signed pre-TGE |
+| Investors Round 2 (Growth)       | 5              | 12                    | 8              | 18                        | TSA signed post-TGE (subject to KPIs) |
 | Liquidity Bootstrap Round (LBR)	 | 5              | 0                     | 8              | 24                        | Tokens are fully locked for 8 m, then vest linearly over 24 m. NONE of these tokens seed liquidity; only the USDC raised (80 %) funds the pool. |
 | Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Founding team & early core contributors |
 | Founder/Team Round 2             | 5              | 18                    | 6              | 24                        | Supports team expansion during scaling phase |
