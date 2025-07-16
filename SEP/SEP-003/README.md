@@ -14,9 +14,9 @@ This document outlines the economic structure and utility framework of the MMC t
 The total maximum supply of **1,000,000,000** MMC tokens is designed to ensure scarcity and long-term value preservation. During the LBR, **5%** of the total supply (**50,000,000 MMC**) will be allocated, targeting a fundraising goal of **$2,500,000**.
 
 ### Use of LBR Sale Funds:
+This allocation ensures ample initial liquidity, reducing price volatility risks, while adequately funding critical operational activities during cold start.
 - 80% of capital raised will be allocated to liquidity provision via Market Makers or protocol-managed liquidity strategies (e.g., Arrakis, GYSR).
 - 20% will support product development, legal/audit expenses, and core team expansion.
-- A portion may be reserved for strategic buybacks or user incentives to bootstrap adoption.
 
 > Note: The matching MMC is drawn from the 7% CEX/DEX Liquidity allocation, so LBR purchasers’ tokens remain locked. Tokens sold in the LBR remain locked for 8 months; the USDC they raise, paired with MMC from the 7% Liquidity bucket, seeds the protocol‑owned liquidity (POL) pool; purchasers have no profit expectation beyond pool fees ([TurnKey Jet no‑action precedent](https://www.sec.gov/divisions/corpfin/cf-noaction/2019/turnkey-jet-040219-2a1.htm)).
 
