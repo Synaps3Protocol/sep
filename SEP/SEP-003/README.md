@@ -59,7 +59,7 @@ MMC token distribution is structured to ensure long-term sustainability while re
 | Market Makers                    | 7              | 0                     | 0              | 0                         | Reserved to establish initial liquidity pools (MM/AMM). |
 | Liquidity Bootstrap Round (LBR)	 | 5              | 0                     | 8              | 24                        | TSA post-TGE, raises USDC to fund MM/AMM liquidity. |
 | Seed Round                       | 3              | 0                     | 6              | 18                        | SAFT pre‑TGE, funds development, audits, and legal. |
-| Strategic Round                  | 5              | 12                    | 8              | 18                        | TSA post-TGE, KPIs gated, scales treasury, liquidity, and partnerships |
+| Strategic Round                  | 5              | 12                    | 8              | 18                        | TSA post-TGE, gated by KPIs to scale treasury, liquidity, and partnerships |
 | Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Founders & early core |
 | Founder/Team Round 2             | 5              | 18                    | 6              | 24                        | Scaling team |
 | Founder/Team Round 3             | 6              | 48                    | 3              | 24                        | Activates if KPI protocol achievement e.g. fees ≥ US $100 M or 5M MAU|
@@ -128,7 +128,7 @@ Tokens are strategically removed or temporarily locked to reduce the circulating
 ## 1.7 Fee Rate & Distribution
 
 The protocol applies an initial **5%** fee on transactions. 
-This fee is distributed as follows:
+This fee is distributed as follows to prioritizes sustainability:
 
 - **Treasury: 40%**  
   Funds ecosystem growth, grants, research and development, partnerships, and infrastructure incentives.
@@ -218,8 +218,4 @@ By year 4, the treasury is projected to manage a total value of approximately **
 
 ### Final Considerations
 
-The MMC Token Economy has been designed to support a sustainable, scalable, and transparent ecosystem, where token utility, community governance, and economic alignment work cohesively. The framework balances incentives for participants with mechanisms that ensure long-term protocol health, avoiding speculative dynamics disconnected from real utility.
-
-While MMC is structured with diverse use cases and deflationary mechanisms that may contribute to value appreciation, its purpose is fundamentally to power interactions, governance, and services within the Synapse ecosystem. The projections and models presented are intended to illustrate potential growth pathways based on protocol activity, and should not be interpreted as financial forecasts or investment guarantees.
-
-The protocol’s DAO governance ensures that key economic parameters, including treasury utilization, fees, and incentives, remain adaptable to the evolving needs of the network. This design fosters an economy driven by participation, innovation, and collective stewardship, rather than short-term speculation.
+MMC is designed not as a speculative asset, but as the engine of value exchange and governance within the Synapse ecosystem. Its structure aligns long-term growth with sustainability, driven by transparent governance and real-world utility.
