@@ -107,7 +107,7 @@ MMC serves as the foundational asset within the ecosystem, supporting:
 
 ## 1.6 Inflation/Deflation Model
 
-Although token releases are not technically inflationary (since no new tokens are minted), they do affect the circulating supply, impacting supply and demand dynamics. The MMC Token employs a balanced inflation/deflation mechanism to ensure long-term value.
+Although token releases are not technically inflationary *(since no new tokens are minted)*, they do affect the circulating supply, impacting supply and demand dynamics. The MMC Token employs a balanced inflation/deflation mechanism to ensure long-term value.
 
 ### 1.6.1 **Inflationary Faucet**
 Tokens are distributed and added to the circulating supply through the mechanisms listed in **1.4**, including:
