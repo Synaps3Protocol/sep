@@ -16,9 +16,15 @@ The total maximum supply of **1,000,000,000** MMC tokens is designed to ensure s
 ### Use of LBR Sale Funds:
 This allocation ensures ample initial liquidity, reducing price volatility risks, while adequately funding critical operational activities during cold start.
 - 80% of capital raised will be allocated to liquidity provision via Market Makers or protocol-managed liquidity strategies (e.g., Arrakis, GYSR).
-- 20% will support product development, legal/audit expenses, and core team expansion.
+- 20% is reserved to strengthen post-TGE growth initiatives not covered by Seed capital, including regulatory compliance, market making strategies, 
+and scaling the team to support upcoming growth.
 
-> Note: The matching MMC is sourced from the 7% CEX/DEX Liquidity allocation, ensuring that LBR purchasers’ tokens remain fully locked for 8 months. The USDC raised in the LBR, combined with MMC from the Liquidity bucket, seeds the Protocol-Owned Liquidity (POL) pool, reinforcing market stability. LBR participants contribute to the ecosystem by enabling protocol liquidity. No assurance is provided regarding resale opportunities or token value changes in secondary markets, and any returns are strictly limited to proportional liquidity pool fees generated through protocol usage. This framework aligns with the SEC’s ([TurnKey Jet no‑action precedent](https://www.sec.gov/divisions/corpfin/cf-noaction/2019/turnkey-jet-040219-2a1.htm)).
+> Note: The matching MMC is sourced from the 7% CEX/DEX Liquidity allocation, ensuring that LBR purchasers’ tokens remain fully locked for 8 months. 
+The USDC raised in the LBR, combined with MMC from the Liquidity bucket, seeds the Protocol-Owned Liquidity (POL) pool, 
+reinforcing market stability. LBR participants contribute to the ecosystem by enabling protocol liquidity. 
+No assurance is provided regarding resale opportunities or token value changes in secondary markets, 
+and any returns are strictly limited to proportional liquidity pool fees generated through protocol usage. 
+This framework aligns with the SEC’s ([TurnKey Jet no‑action precedent](https://www.sec.gov/divisions/corpfin/cf-noaction/2019/turnkey-jet-040219-2a1.htm)).
 
 ## 1.2 Initial Price Determination
 
@@ -29,13 +35,13 @@ The initial token price in the LBR is not a market valuation, but an operational
 This conversion rate defines only the token allocation within the LBR context and must not be interpreted as an implied or future market value.
 Subsequent funding rounds for growth are structured with premiums to reflect ecosystem development milestones, not as guarantees of market valuation:
 
-| Round            | Price (USD)                             | Discount/Premium vs LBR | Raise target  |
-| ---------------- | --------------------------------------- | ----------------------- | ------------- |
-| **Seed (SAFT)**  | 0.04                                    | −20 %                   | ≈ US $ 1.2 M |
-| **LBR**          | 0.05                                    | —                       | US $ 2.5 M   |
-| **Growth (TSA)** | ≥ max(0.06 USD, CurrentPrice × 1.2)     | ≥ +20 %                 | ≤ US $ 3 M   |
+| Round               | Price (USD)                             | Discount/Premium vs LBR | Raise target |
+| ------------------- | --------------------------------------- | ----------------------- | ------------ |
+| **Seed (SAFT)**     | 0.04                                    | −20 %                   | ≈ US $ 1.2 M |
+| **LBR (TSA)**       | 0.05                                    | —                       | US $ 2.5 M   |
+| **Strategic (TSA)** | ≥ max(0.06 USD, CurrentPrice × 1.2)     | ≥ +20 %                 | ≤ US $ 3 M   |
 
-FDV hard‑caps: ≤ US $50M (Seed), ≤ US $60M (LBR), ≤ US $80M (Growth).
+FDV hard‑caps: ≤ US $50M (Seed), ≤ US $60M (LBR), ≤ US $80M (Strategic).
 > These caps are guidelines for treasury and fundraising strategy, not forecasts of market capitalization.
 The token price evolution, if any, is expected to emerge organically from actual utility and ecosystem growth. 
 Neither the LBR price, nor subsequent fundraising rounds, are determinative of future market prices.
@@ -50,10 +56,10 @@ MMC token distribution is structured to ensure long-term sustainability while re
 
 | Entity                           | Allocation (%) | Vesting Start (month) | Cliff (months) | Vesting Duration (months) | Notes |
 |:---------------------------------|---------------:|----------------------:|---------------:|--------------------------:|:------|
-| Market Makers Liquidity          | 7              | 0                     | 0              | 0                         | LBR tranches close (0-18 months) |
-| Liquidity Bootstrap Round (LBR)	 | 5              | 0                     | 8              | 24                        | USDC raised (80%) funds the liquidity. |
-| Seed Round                       | 3              | 0                     | 6              | 18                        | SAFT pre‑TGE |
-| Growth Round                     | 5              | 12                    | 8              | 18                        | TSA post-TGE, KPIs gated |
+| Market Makers                    | 7              | 0                     | 0              | 0                         | Reserved to establish initial liquidity pools (MM/AMM). |
+| Liquidity Bootstrap Round (LBR)	 | 5              | 0                     | 8              | 24                        | TSA post-TGE, raises USDC to fund MM/AMM liquidity. |
+| Seed Round                       | 3              | 0                     | 6              | 18                        | SAFT pre‑TGE, funds development, audits, and legal. |
+| Strategic Round                  | 5              | 12                    | 8              | 18                        | TSA post-TGE, KPIs gated, scales treasury, liquidity, and partnerships |
 | Founder/Team Round 1             | 4              | 0                     | 12             | 24                        | Founders & early core |
 | Founder/Team Round 2             | 5              | 18                    | 6              | 24                        | Scaling team |
 | Founder/Team Round 3             | 6              | 48                    | 3              | 24                        | Activates if KPI protocol achievement e.g. fees ≥ US $100 M or 5M MAU|
