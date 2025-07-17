@@ -210,12 +210,6 @@ The treasury is expected to have the following profit and loss:
 
 ![Treasury P&L](resources/treasury_pnl.png)
 
-The treasury is expected to have the following funds under management:
-
-![Funds under management](resources/funds_under_management.png)
-
-By year 4, the treasury is projected to manage a total value of approximately **$470,000,000**, with 99% held in native tokens.
-
 ### Final Considerations
 
 MMC is designed not as a speculative asset, but as the engine of value exchange and governance within the Synapse ecosystem. Its structure aligns long-term growth with sustainability, driven by transparent governance and real-world utility.
